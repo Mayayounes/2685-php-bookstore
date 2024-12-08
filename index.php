@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Home Page</h1>
+    <h2>This is my project</h2>
 </body>
 </html>
